@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Avaliador" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/AmareloBotão</item>
+        <item name="android:colorBackground">@color/fundoAzulEscuro</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/BrancoSujo</item>
+        <item name="colorOnSecondary">@color/BrancoSujo</item>
+        <item name="colorOnSurface">@color/BrancoSujo</item>
+
+
+    </style>
+
+    <style name="Theme.Avaliador" parent="Base.Theme.Avaliador" />
+</resources>
